@@ -16,7 +16,6 @@ body {
     box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.05);
     padding: 15px;
     border-radius: 20px;
-    margin-bottom: 40px;
 }
 .parent img {
     max-width: 100%;
@@ -44,6 +43,6 @@ body {
 /* Mobile Screen */
 @media (min-width: 375px) {
     .parent {
-        width: 320px;
+        width: 300px;
     }
 }
